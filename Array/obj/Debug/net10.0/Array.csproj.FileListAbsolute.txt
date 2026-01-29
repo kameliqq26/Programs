@@ -1,0 +1,15 @@
+c:\Users\user\Documents\GitHub\Programs\Array\bin\Debug\net10.0\Array.exe
+c:\Users\user\Documents\GitHub\Programs\Array\bin\Debug\net10.0\Array.deps.json
+c:\Users\user\Documents\GitHub\Programs\Array\bin\Debug\net10.0\Array.runtimeconfig.json
+c:\Users\user\Documents\GitHub\Programs\Array\bin\Debug\net10.0\Array.dll
+c:\Users\user\Documents\GitHub\Programs\Array\bin\Debug\net10.0\Array.pdb
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.AssemblyInfoInputs.cache
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.AssemblyInfo.cs
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.csproj.CoreCompileInputs.cache
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.sourcelink.json
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.dll
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\refint\Array.dll
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.pdb
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\Array.genruntimeconfig.cache
+c:\Users\user\Documents\GitHub\Programs\Array\obj\Debug\net10.0\ref\Array.dll
